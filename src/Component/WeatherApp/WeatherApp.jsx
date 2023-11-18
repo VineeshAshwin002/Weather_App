@@ -9,7 +9,7 @@ import humidity_icon from '../Assets/humidity.png'
 import rain_icon from '../Assets/rain.png'
 import snow_icon from '../Assets/snow.png'
 import wind_icon from '../Assets/wind.png'
-import axios, { Axios }  from 'axios'
+import axios  from 'axios'
 
 const WeatherApp = () => {
 
